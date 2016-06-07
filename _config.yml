@@ -1,0 +1,28 @@
+name: The Society Group
+favicon: null
+layout_spectrum: 0.07837340817786753
+typography_spectrum: 0.12759134848602116
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.2661630976945162
+  lightness: 0.8829157592263073
+  saturation: 0.8332922745030373
+  rhythmicContrast: 0.32583744754083455
+purpose: []
