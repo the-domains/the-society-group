@@ -4,8 +4,15 @@
         <description><![CDATA[The Society Group]]></description>
         <link>https://thegrid.ai/the-society-group/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 13 Jun 2016 21:51:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2016 21:51:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-society-group/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hot Property - The Los Angeles Times]]></title>
+            <description><![CDATA[<article><h1>Hot Property - The Los Angeles Times</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7fc778cb-469c-4e74-862e-b2665bbb3a82.jpg"></article>]]></description>
+            <link>http://www.latimes.com/business/realestate/hot-property/la-fi-hotprop-former-reagan-house-20160309-story.html</link>
+            <guid isPermaLink="false">d7523120-07c7-4288-a0a9-dec13f0404b4</guid>
+            <pubDate>Mon, 13 Jun 2016 21:51:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Late President Ronald Reagan's L.A. Property Is Listed for $33 Million | Architectural Digest]]></title>
             <description><![CDATA[<article><h1>Late President Ronald Reagan's L.A. Property Is Listed for $33 Million | Architectural Digest</h1><p>On the site of late president Ronald Reagan's home in Los Angeles's Pacific Palisades sits this newly completed Spanish Revival-style stucco residence, designed by Jaman Properties and landscape designer Scott Shrader to include some of the 1953 building's original elements. Set on a bluff in the Santa Monica Mountains, the Riviera White House has city, ocean, and mountain views.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a04d32756998fb0f65f373dfca381f88585ecee0.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.architecturaldigest.com/gallery/late-president-ronald-reagan-los-angeles-property</link>
             <guid isPermaLink="false">28448cd0-d13d-42ce-b79b-ff144ad9cc99</guid>
             <pubDate>Mon, 13 Jun 2016 20:59:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[$33-million spec house pays homage to Ronald and Nancy Reagan home once on the site]]></title>
-            <description><![CDATA[<article><h1>$33-million spec house pays homage to Ronald and Nancy Reagan home once on the site</h1><p>A Pacific Palisades estate built on property once owned by the late presidential couple Ronald and Nancy Reagan is on the market as a pocket listing at $33 million. The developers and investor-owners, Jaman Properties, are relying on word of mouth and an invitation-only party to sell the 12,000-square-foot...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bfad97efd467a490922079aa9d938b7ef4a9154a.jpg"></article>]]></description>
-            <link>http://www.latimes.com/business/realestate/hot-property/la-fi-hotprop-former-reagan-house-20160309-story.html</link>
-            <guid isPermaLink="false">ed40ab4e-31dc-4fca-864d-e5c2791b8e67</guid>
-            <pubDate>Mon, 13 Jun 2016 18:45:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
