@@ -28,8 +28,8 @@ app_links: []
 isBasedOnUrl: >-
   http://www.nbclosangeles.com/news/local/Ronald-Nancy-Reagan-Former-Property-Sale-for-33-Million--371805352.html
 title: Ronald and Nancy Reagan's Former Property For Sale
-datePublished: '2016-06-13T21:23:50.979Z'
-dateModified: '2016-06-13T21:16:00.860Z'
+datePublished: '2016-06-13T21:50:56.760Z'
+dateModified: '2016-06-13T21:15:39.263Z'
 starred: false
 sourcePath: _posts/2016-06-13-ronald-and-nancy-reagans-former-property-for-sale.md
 inFeed: true
