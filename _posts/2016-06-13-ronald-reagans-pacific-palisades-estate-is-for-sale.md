@@ -30,8 +30,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://fortune.com/2016/03/10/reagan-pacific-palisades-sale/'
 title: Ronald Reagan's Pacific Palisades Estate Is for Sale
-datePublished: '2016-06-13T21:15:45.291Z'
-dateModified: '2016-06-13T21:15:03.132Z'
+datePublished: '2016-06-13T21:50:54.044Z'
+dateModified: '2016-06-13T21:14:39.879Z'
 starred: false
 sourcePath: _posts/2016-06-13-ronald-reagans-pacific-palisades-estate-is-for-sale.md
 inFeed: true
