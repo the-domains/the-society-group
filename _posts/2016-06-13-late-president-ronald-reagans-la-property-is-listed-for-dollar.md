@@ -33,8 +33,8 @@ isBasedOnUrl: >-
 title: >-
   Late President Ronald Reagan's L.A. Property Is Listed for $33 Million |
   Architectural Digest
-datePublished: '2016-06-13T20:59:42.849Z'
-dateModified: '2016-06-13T20:59:15.295Z'
+datePublished: '2016-06-13T21:51:01.400Z'
+dateModified: '2016-06-13T20:59:27.035Z'
 starred: false
 sourcePath: >-
   _posts/2016-06-13-late-president-ronald-reagans-la-property-is-listed-for-dollar.md
